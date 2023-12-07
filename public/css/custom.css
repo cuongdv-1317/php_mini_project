@@ -1,0 +1,12 @@
+.header__item {
+  width: 72px;
+}
+
+.navbar-nav.navbar__nav {
+  flex-direction: row;
+}
+
+.custom-text-area {
+  width: 300px !important;
+  height: 100px !important;
+}
